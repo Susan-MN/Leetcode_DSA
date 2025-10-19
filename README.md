@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2491-smallest-even-multiple) |
+## Hash Table
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
