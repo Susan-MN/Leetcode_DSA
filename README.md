@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
