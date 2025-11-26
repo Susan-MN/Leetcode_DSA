@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -74,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
