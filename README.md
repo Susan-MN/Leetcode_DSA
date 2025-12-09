@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2491-smallest-even-multiple) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
