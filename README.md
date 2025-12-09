@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
