@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
