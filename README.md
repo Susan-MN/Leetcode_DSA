@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1952-three-divisors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2491-smallest-even-multiple](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1952-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2491-smallest-even-multiple) |
 ## Hash Table
 |  |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0844-backspace-string-compare) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
