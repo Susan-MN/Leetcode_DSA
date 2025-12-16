@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
