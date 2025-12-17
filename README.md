@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2706-buy-two-chocolates](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2706-buy-two-chocolates](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2706-buy-two-chocolates](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
 | ------- |
