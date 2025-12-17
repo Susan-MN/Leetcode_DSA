@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1528-shuffle-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
