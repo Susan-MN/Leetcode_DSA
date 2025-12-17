@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Binary Search
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1952-three-divisors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
