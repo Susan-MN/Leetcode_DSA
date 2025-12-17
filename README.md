@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
 ## Math
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1952-three-divisors) |
