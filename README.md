@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
+| [2404-most-frequent-even-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2706-buy-two-chocolates) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0001-two-sum) |
+| [2404-most-frequent-even-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2404-most-frequent-even-element) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2404-most-frequent-even-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2404-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
