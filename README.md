@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1528-shuffle-string) |
 | [1646-kth-missing-positive-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0844-backspace-string-compare) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1528-shuffle-string](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
