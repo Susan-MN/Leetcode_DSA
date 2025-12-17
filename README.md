@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3226-minimum-number-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3226-minimum-number-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
