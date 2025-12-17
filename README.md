@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2058-concatenation-of-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0001-two-sum) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2404-most-frequent-even-element) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Susan-MN/Leetcode_DSA/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Brainteaser
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
