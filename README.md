@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0844-backspace-string-compare) |
 ## Enumeration
 |  |
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
