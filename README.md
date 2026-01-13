@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2404-most-frequent-even-element) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0844-backspace-string-compare) |
