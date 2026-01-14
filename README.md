@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
