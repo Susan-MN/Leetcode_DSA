@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0704-binary-search) |
