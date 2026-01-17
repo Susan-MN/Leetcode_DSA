@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
