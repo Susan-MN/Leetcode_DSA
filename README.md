@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2404-most-frequent-even-element) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0792-binary-search) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
