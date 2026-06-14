@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
