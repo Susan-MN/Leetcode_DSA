@@ -1,37 +1,24 @@
 public class Solution {
     public void SortColors(int[] nums) {
-        
-        int start=0;
-        int mid=0;
-        int end=nums.Length-1;
-
-        while(mid<=end)
+    {    
+     for(int i=0;i<nums.Length;i++)
+     {
+        int min=i;
+        for(int j=i+1;j<nums.Length;j++)
         {
-            switch(nums[mid])
+            if(nums[min]>nums[j])
             {
-                case 0:
-                swap(nums,start,mid);
-                mid++;
-                start++;
-                break;
-
-                case 1:
-                mid++;
-                break;
-
-                case 2:
-                swap(nums,mid,end);
-                end--;
-                break;
-                
-
+                min=j;
+            
             }
         }
+        int temp=nums[i];
+        nums[i]=nums[min];
+        nums[min]=temp;
+            
+        
+     }  
     }
-    private void swap(int[] nums,int pos1,int pos2 )
-    {
-        int temp=nums[pos1];
-        nums[pos1]=nums[pos2];
-        nums[pos2]=temp;
+   
     }
 }
