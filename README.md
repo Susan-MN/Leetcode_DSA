@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
