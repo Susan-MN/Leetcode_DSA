@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Susan-MN/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1025-divisor-game) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Susan-MN/Leetcode_DSA/tree/master/1950-sign-of-the-product-of-an-array) |
